@@ -1,0 +1,17 @@
+.students-section {
+  padding: 1rem;
+}
+.students-content {
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.add-new-btn {
+  font-weight: 600;
+  cursor: pointer;
+}
